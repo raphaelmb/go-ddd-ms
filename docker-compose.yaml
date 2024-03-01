@@ -4,4 +4,3 @@ services:
       - "3031:3031"
     build:
       context: .
-
